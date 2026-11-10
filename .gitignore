@@ -7,3 +7,6 @@ __pycache__/
 
 # 系统文件
 .DS_Store
+
+# Anaconda Navigator 内部文件夹(不提交)
+anaconda_projects/
